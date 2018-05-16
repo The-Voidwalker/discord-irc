@@ -5,9 +5,9 @@
     "discordToken": "NDM1NTcxNjM1MTY5Mzk0Njg4.Dba6Wg.ZsmAHxMQ3Q6k3-OJi_e6wzQPIcA",
     "channelMapping": {
       "#irc-relay": "#miraheze"
-      "autoSendCommands": [ // Commands that will be sent on connect
-      ["RAW", "JOIN #miraheze"]
-    ],
+    },
+     "ircOptions": [
+       "channels": [#miraheze]
     }
   }
 ]
