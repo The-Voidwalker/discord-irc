@@ -6,7 +6,7 @@
     "channelMapping": {
       "#irc-relay": "#miraheze"
     },
-     "ircOptions": [
+     "ircOptions": {
        "channels": [#miraheze]
     }
   }
