@@ -7,7 +7,7 @@
       "#irc-relay": "#miraheze"
     },
      "ircOptions": {
-       "channels": [#miraheze]
+       "channels": "#miraheze"
     }
   }
 ]
