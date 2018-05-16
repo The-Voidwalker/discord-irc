@@ -7,7 +7,7 @@
       "#irc-relay": "#miraheze"
     },
      "ircOptions": {
-       "channels": "#miraheze",
+       "channels": ["#miraheze"],
        "debug": true,
        "userName": "MH-Discord",
        "password": "MHrelay",
