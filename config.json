@@ -3,6 +3,7 @@
     "nickname": "MH-Discord",
     "server": "chat.freenode.net",
     "discordToken": "NDM1NTcxNjM1MTY5Mzk0Njg4.Dba6Wg.ZsmAHxMQ3Q6k3-OJi_e6wzQPIcA",
+    "ircNickColor": false
     "channelMapping": {
       "#irc-relay": "#miraheze"
     },
@@ -15,7 +16,8 @@
        "userName": "MH-Discord",
        "password": "MHrelay",
        "sasl": true,
-       "realname": "Miraheze Discord from/to IRC relay"
+       "millisecondsOfSilenceBeforePingSent": "15 * 1000",
+       "realname": "Discord from-to IRC relay"
     }
   }
 ]
