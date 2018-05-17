@@ -6,6 +6,9 @@
     "channelMapping": {
       "#irc-relay": "#miraheze"
     },
+    "ignoreUsers": {
+      "irc": ["icinga-miraheze", "ZppixBot"]
+    },
      "ircOptions": {
        "channels": ["#miraheze"],
        "debug": true,
