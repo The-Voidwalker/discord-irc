@@ -14,7 +14,9 @@
        "debug": true,
        "userName": "MH-Discord",
        "password": "MHrelay",
-       "sasl": true
+       "sasl": true,
+       "secure": true,
+       "realname": "Miraheze Discord from/to IRC relay"
     }
   }
 ]
