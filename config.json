@@ -12,7 +12,7 @@
     },
      "ircOptions": {
        "channels": ["#miraheze"],
-       "debug": true,
+       "debug": false,
        "userName": "MH-Discord",
        "password": "MHrelay",
        "sasl": true,
