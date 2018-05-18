@@ -16,8 +16,7 @@
        "userName": "MH-Discord",
        "password": "MHrelay",
        "sasl": true,
-       "millisecondsOfSilenceBeforePingSent": "15 * 1000",
-       "realname": "Discord from-to IRC relay"
+       "millisecondsOfSilenceBeforePingSent": "3600000"
     }
   }
 ]
